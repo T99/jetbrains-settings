@@ -1,0 +1,13 @@
+$PROJECT$
+ 
+/* Category:     Generic
+ * Abbreviation: project
+ * Description:  Inserts the name of the current project.
+ * 
+ * Template Variable Settings:
+ * 
+ *   $PROJECT$
+ *     Expression: groovyScript("_editor.project.name")
+ *     Default value: <none>
+ *     Skip is defined: YES
+ */
