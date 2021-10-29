@@ -1,7 +1,7 @@
 export { $SYMBOLS$ } from "$FILE_LOCATION$";$END$
 
 /* Category:     JavaScript
- * Abbreviation: impo
+ * Abbreviation: expo
  * Description:  Inserts an `export { x } from "y";` statement.
  * 
  * Template Variable Settings:
