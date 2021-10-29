@@ -6,7 +6,7 @@ I cannot, for the life of me, get Jetbrain's built-in settings export->import sy
 
 # One-off Settings
 
-Only settings that different from the default configuration have been included.
+Only settings that differ from the default configuration have been included.
 
 ## Theme (`Appearance & Behavior/Appearance/Theme`)
 Darcula
