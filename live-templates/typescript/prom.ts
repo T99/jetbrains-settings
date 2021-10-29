@@ -4,15 +4,18 @@ new Promise<$TYPE$>((resolve: (value: $TYPE$) => void, reject: (reason?: $ERR_TY
 	
 });
 
-/* Template Variable Settings:
+/* Description:
+ *   Inserts a fully-typed Promise block.
  * 
- * $TYPE$
- *   Expression: <none>
- *   Default value: <none>
- *   Skip is defined: NO
+ * Template Variable Settings:
  * 
- * $ERR_TYPE$
- *   Expression: <none>
- *   Default value: "any"
- *   Skip is defined: NO 
+ *   $TYPE$
+ *     Expression: <none>
+ *     Default value: <none>
+ *     Skip is defined: NO
+ * 
+ *   $ERR_TYPE$
+ *     Expression: <none>
+ *     Default value: "any"
+ *     Skip is defined: NO 
  */
