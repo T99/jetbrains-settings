@@ -1,0 +1,18 @@
+// DOC-ME [$DATE$ @ $TIME$] Documentation is required!$END$
+
+/* Category:     Generic
+ * Abbreviation: docme
+ * Description:  Inserts a 'DOC-ME' comment indicating that documentation is required.
+ * 
+ * Template Variable Settings:
+ * 
+ *   $DATE$
+ *     Expression: date()
+ *     Default value: <none>
+ *     Skip is defined: YES
+ * 
+ *   $TIME$
+ *     Expression: time()
+ *     Default value: <none>
+ *     Skip is defined: YES
+ */
