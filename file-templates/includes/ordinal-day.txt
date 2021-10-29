@@ -1,0 +1,16 @@
+#set($Integer = 0)
+#set($DAY = $Integer.parseInt(${DAY}))
+#if ((${DAY} % 10) == 1 && ${DAY} != 11) #set($DAY = "${DAY}st")
+#elseif ((${DAY} % 10) == 2 && ${DAY} != 12) #set($DAY = "${DAY}nd")
+#elseif ((${DAY} % 10) == 3 && ${DAY} != 13) #set($DAY = "${DAY}rd")
+#else #set($DAY = "${DAY}th")
+#end
+
+/* Name:      Ordinal Day
+ * Extension: txt
+ * File name: <none>
+ * 
+ * Reformat according to style: <default>
+ * Enable Live Templates:       No
+ */
+ 
