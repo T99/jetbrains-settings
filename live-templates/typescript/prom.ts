@@ -10,7 +10,7 @@ new Promise<$TYPE$>((resolve: (value: $TYPE$) => void, reject: (reason?: $ERR_TY
  *   Expression: <none>
  *   Default value: <none>
  *   Skip is defined: NO
-  
+ * 
  * $ERR_TYPE$
  *   Expression: <none>
  *   Default value: "any"
