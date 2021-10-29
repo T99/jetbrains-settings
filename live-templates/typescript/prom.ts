@@ -4,8 +4,9 @@ new Promise<$TYPE$>((resolve: (value: $TYPE$) => void, reject: (reason?: $ERR_TY
 	
 });
 
-/* Description:
- *   Inserts a fully-typed Promise block.
+/* Category:     TypeScript
+ * Abbreviation: prom
+ * Description:  Inserts a fully-typed Promise block.
  * 
  * Template Variable Settings:
  * 
