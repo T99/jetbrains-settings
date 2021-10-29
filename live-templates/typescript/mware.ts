@@ -6,5 +6,6 @@ async (request: IncomingHTTPRequest, response: OutgoingHTTPResponse): Promise<vo
   
 /* Template Variable Settings:
  * 
- * <none>
+ * Description:
+ *   Inserts a Middleware function.
  */
