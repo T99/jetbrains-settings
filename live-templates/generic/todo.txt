@@ -1,0 +1,18 @@
+// TODO [$DATE$ @ $TIME$] $END$
+ 
+/* Category:     Generic
+ * Abbreviation: todo
+ * Description:  Inserts a 'TODO' comment indicated that additional work is required.
+ * 
+ * Template Variable Settings:
+ * 
+ *   $DATE$
+ *     Expression: date()
+ *     Default value: <none>
+ *     Skip is defined: YES
+ * 
+ *   $TIME$
+ *     Expression: time()
+ *     Default value: <none>
+ *     Skip is defined: YES
+ */
