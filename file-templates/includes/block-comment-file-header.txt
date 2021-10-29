@@ -1,4 +1,4 @@
-#parse("Ordinal Day.js")
+#parse("Ordinal Day.txt")
 /*
  * Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
  * ${TIME} -- ${MONTH_NAME_FULL} ${DAY}, ${YEAR}
