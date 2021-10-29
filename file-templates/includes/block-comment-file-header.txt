@@ -1,0 +1,14 @@
+#parse("Ordinal Day.js")
+/*
+ * Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
+ * ${TIME} -- ${MONTH_NAME_FULL} ${DAY}, ${YEAR}
+ * Project: ${PROJECT_NAME}
+ */
+ 
+/* Name:      Block Comment File Header
+ * Extension: txt
+ * File name: <none>
+ * 
+ * Reformat according to style: <default>
+ * Enable Live Templates:       No
+ */
