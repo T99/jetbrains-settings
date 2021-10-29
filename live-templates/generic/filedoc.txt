@@ -1,0 +1,27 @@
+/*
+ * Created by Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/).
+ * $TIME$ -- $DATE$.
+ * Project: $PROJECT$
+ */$END$
+ 
+/* Category:     Generic
+ * Abbreviation: filedoc
+ * Description:  Inserts a block comment header for the current file.
+ * 
+ * Template Variable Settings:
+ * 
+ *   $TIME$
+ *     Expression: time()
+ *     Default value: <none>
+ *     Skip is defined: YES
+ * 
+ *   $DATE$
+ *     Expression: date("MMMM dd, YYYY")
+ *     Default value: <none>
+ *     Skip is defined: YES
+ * 
+ *   $PROJECT$
+ *     Expression: groovyScript("_editor.project.name")
+ *     Default value: <none>
+ *     Skip is defined: YES
+ */
