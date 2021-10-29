@@ -4,8 +4,9 @@ async (request: IncomingHTTPRequest, response: OutgoingHTTPResponse): Promise<vo
 	
 }
   
-/* Description:
- *   Inserts a Middleware function.
+/* Category:     TypeScript
+ * Abbreviation: mware
+ * Description:  Inserts a Middleware function.
  * 
  * Template Variable Settings:
  * 
