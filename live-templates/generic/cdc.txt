@@ -1,0 +1,24 @@
+/**
+ * $COMMENT$
+ * 
+ * @author Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)
+ * @version v$VERSION$
+ * @since v$VERSION$
+ */$END$
+
+/* Category:     Generic
+ * Abbreviation: cdc
+ * Description:  Inserts a class doc comment.
+ * 
+ * Template Variable Settings:
+ * 
+ *   $VERSION$
+ *     Expression: <none>
+ *     Default value: "0.1.0"
+ *     Skip is defined: NO
+ * 
+ *   $COMMENT$
+ *     Expression: <none>
+ *     Default value: <none>
+ *     Skip is defined: NO
+ */
